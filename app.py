@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Sebastian's Workout Generator")
+st.title("Workout Generator")
 
 exercises = pd.read_csv("exercises.csv")
 
