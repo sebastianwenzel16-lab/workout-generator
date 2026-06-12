@@ -1,0 +1,25 @@
+name,group,muscle,equipment,type
+Bench Press,Chest + Triceps,Chest,Barbell,Primary
+Dumbbell Bench Press,Chest + Triceps,Chest,Dumbbells,Primary
+Push Up,Chest + Triceps,Chest,Bodyweight,Primary
+Overhead Triceps Extension,Chest + Triceps,Triceps,Dumbbells,Accessory
+Close Grip Bench Press,Chest + Triceps,Triceps,Barbell,Accessory
+Triceps Pushdown,Chest + Triceps,Triceps,Cable,Accessory
+Barbell Row,Back + Biceps,Back,Barbell,Primary
+One Arm Dumbbell Row,Back + Biceps,Back,Dumbbells,Primary
+Pull Up,Back + Biceps,Back,Bodyweight,Primary
+Barbell Curl,Back + Biceps,Biceps,Barbell,Accessory
+Dumbbell Curl,Back + Biceps,Biceps,Dumbbells,Accessory
+Hammer Curl,Back + Biceps,Biceps,Dumbbells,Accessory
+Squat,Legs + Abs,Legs,Barbell,Primary
+Goblet Squat,Legs + Abs,Legs,Dumbbells,Primary
+Romanian Deadlift,Legs + Abs,Legs,Barbell,Primary
+Plank,Legs + Abs,Abs,Bodyweight,Accessory
+Hanging Knee Raise,Legs + Abs,Abs,Bodyweight,Accessory
+Weighted Sit Up,Legs + Abs,Abs,Plate,Accessory
+Lateral Raise,Accessories,Shoulders,Dumbbells,Accessory
+Rear Delt Fly,Accessories,Rear Delts,Dumbbells,Accessory
+Face Pull,Accessories,Rear Delts,Cable,Accessory
+Shrug,Accessories,Traps,Dumbbells,Accessory
+Calf Raise,Accessories,Calves,Bodyweight,Accessory
+Wrist Curl,Accessories,Forearms,Dumbbells,Accessory
